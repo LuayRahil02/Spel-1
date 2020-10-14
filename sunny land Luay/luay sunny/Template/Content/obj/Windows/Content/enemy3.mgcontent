@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Elev/Desktop/sunnt land/luay sunny/Template/Content/enemy3.png</SourceFile>
+  <SourceFile>C:/Users/Elev/Desktop/sunny land Luay/luay sunny/Template/Content/enemy3.png</SourceFile>
   <SourceTime>2020-10-13T10:32:40.8172034+02:00</SourceTime>
-  <DestFile>C:/Users/Elev/Desktop/sunnt land/luay sunny/Template/Content/bin/Windows/Content/enemy3.xnb</DestFile>
-  <DestTime>2020-10-13T10:37:14.8766155+02:00</DestTime>
+  <DestFile>C:/Users/Elev/Desktop/sunny land Luay/luay sunny/Template/Content/bin/Windows/Content/enemy3.xnb</DestFile>
+  <DestTime>2020-10-14T08:25:03.3730552+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
