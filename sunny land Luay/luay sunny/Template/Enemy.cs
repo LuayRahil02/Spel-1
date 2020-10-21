@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Template
 {
-    class Base
+    class Enemy
     {
         protected Vector2 position;
         Rectangle rectangle;
